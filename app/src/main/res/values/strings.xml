@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Chemistry Calculator</string>
+    <string name="action_reset">Reset</string>
+    <string name="action_crash">Crash</string>
+    <string name="acid_initial">[Acid_Initial]</string>
+    <string name="e">E</string>
+    <string name="h_initial">[H+_Initial]</string>
+    <string name="a_initial">[A-_Initial]</string>
+    <string name="ka_value">Ka Value</string>
+    <string name="pka">pKa</string>
+    <string name="calculate">Calculate</string>
+    <string name="sig_figs">Sig Figs:</string>
+    <string name="rxn_direction">Rxn Direction:</string>
+    <string name="acid">[Acid]</string>
+    <string name="h">[H+]</string>
+    <string name="a">[A-]</string>
+    <string name="initial">Initial</string>
+    <string name="_0">0</string>
+    <string name="change">Change</string>
+    <string name="equilibrium">Equilibrium</string>
+    <string name="ph">pH</string>
+    <string name="pa">pA</string>
+</resources>
